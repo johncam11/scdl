@@ -5,8 +5,8 @@
 import os
 
 __version__ = 'v1.6.12'
-CLIENT_ID = 'a3e059563d7fd3372b49b37f00a00bcf'
-ALT_CLIENT_ID = '2t9loNQH90kzJcsFCODdigxfp325aq4z'
+CLIENT_ID = 'f17476445ba4b72bc5760aa679820d27'
+ALT_CLIENT_ID = '822786d960574f9c8bcb1b93b973d6af'
 ALT2_CLIENT_ID = 'NONE'
 
 dir_path_to_conf = os.path.join(os.path.expanduser('~'), '.config/scdl')
