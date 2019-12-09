@@ -4,7 +4,7 @@
 
 import os
 
-__version__ = 'v1.6.12'
+__version__ = 'v1.7.12'
 CLIENT_ID = 'f17476445ba4b72bc5760aa679820d27'
 ALT_CLIENT_ID = '822786d960574f9c8bcb1b93b973d6af'
 ALT2_CLIENT_ID = 'NONE'
